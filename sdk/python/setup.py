@@ -52,7 +52,7 @@ REQUIRED = [
     "mmh3",
     "pandas>=1.0.0",
     "pandavro==1.5.*",
-    "protobuf>=3.10",
+    "protobuf>=3.10, <3.20",
     "pyarrow>=2.0.0",
     "pydantic>=2.0.0",
     "PyYAML>=5.4.*",
